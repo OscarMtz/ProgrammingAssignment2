@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Aug-21-2014 Initial Creation by Oscar Portillo
+## Function makeCacheMatrix creates a special matrix object that can cache its inverse and function
+##chaceSolve computes the inverse of the special function returned by makeCacheMatrix
 
 ## Write a short comment describing this function
 
